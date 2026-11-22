@@ -1,16 +1,20 @@
-## Hi there 👋
+### ♠️ Yumiko — Advanced Discord Security & Management
 
-<!--
-**yumikosecurity/yumikosecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Risk for a higher reward"*
 
-Here are some ideas to get you started:
+Yumiko is an enterprise-grade, modular Discord bot engineered with **Node.js LTS** and **Discord.js v14** to deliver impenetrable server defense, intuitive moderation, and active community engagement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🛡️ Core Capabilities
+- **Antinuke Engine:** 11 sub-modules preventing mass bans, channel wiping, role destruction, and rogue bot additions.
+- **Automod & Heuristics:** Real-time anti-spam, anti-invite, and automated content filtering.
+- **VoiceMaster:** Join-to-Create dynamic temporary voice channels with user ownership controls.
+- **Community Automation:** Custom welcome systems, autoroles, vanity status role tracking, starboards, and giveaways.
+- **Web Dashboard:** Protected owner management console with real-time system metrics.
+
+---
+
+#### 🌐 Connect & Links
+- 💬 **Support Server:** [Join Here](https://discord.gg/CRbua5bHNV)
+- 🤖 **Add to Discord:** [Invite Yumiko](https://discord.com/oauth2/authorize?client_id=1403480813525274624&permissions=8&scope=bot%20applications.commands)
